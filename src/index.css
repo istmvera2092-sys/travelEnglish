@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* subtle glow */
+.glow {
+  box-shadow: 0 0 30px rgba(20, 184, 166, 0.2);
+}
